@@ -1,0 +1,3 @@
+first you need to import necessary things
+read the file to df
+do shape,size,info,isnull.sum : to get overall information
